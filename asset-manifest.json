@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Memory-game/static/css/main.72771bc8.chunk.css",
+    "main.js": "/Memory-game/static/js/main.3d62b1e4.chunk.js",
+    "main.js.map": "/Memory-game/static/js/main.3d62b1e4.chunk.js.map",
+    "runtime-main.js": "/Memory-game/static/js/runtime-main.bbb94a4a.js",
+    "runtime-main.js.map": "/Memory-game/static/js/runtime-main.bbb94a4a.js.map",
+    "static/js/2.68c56924.chunk.js": "/Memory-game/static/js/2.68c56924.chunk.js",
+    "static/js/2.68c56924.chunk.js.map": "/Memory-game/static/js/2.68c56924.chunk.js.map",
+    "index.html": "/Memory-game/index.html",
+    "static/css/main.72771bc8.chunk.css.map": "/Memory-game/static/css/main.72771bc8.chunk.css.map",
+    "static/js/2.68c56924.chunk.js.LICENSE.txt": "/Memory-game/static/js/2.68c56924.chunk.js.LICENSE.txt",
+    "static/media/burger1.8b7a3f30.png": "/Memory-game/static/media/burger1.8b7a3f30.png",
+    "static/media/clubhouse1.aa1ce75f.png": "/Memory-game/static/media/clubhouse1.aa1ce75f.png",
+    "static/media/donut1.4413b595.png": "/Memory-game/static/media/donut1.4413b595.png",
+    "static/media/fries1.c9534ac2.png": "/Memory-game/static/media/fries1.c9534ac2.png",
+    "static/media/pizza1.a4a20398.jpg": "/Memory-game/static/media/pizza1.a4a20398.jpg",
+    "static/media/spaghetti.e75f81f3.jpg": "/Memory-game/static/media/spaghetti.e75f81f3.jpg",
+    "static/media/sushi1.25f17c85.png": "/Memory-game/static/media/sushi1.25f17c85.png",
+    "static/media/taco1.46e59511.png": "/Memory-game/static/media/taco1.46e59511.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbb94a4a.js",
+    "static/js/2.68c56924.chunk.js",
+    "static/css/main.72771bc8.chunk.css",
+    "static/js/main.3d62b1e4.chunk.js"
+  ]
+}
